@@ -5,7 +5,9 @@ For a token like you would want to deploy in something like Mist, see HumanStand
 If you deploy this, you won't have anything useful.
 
 Implements ERC 20 Token standard: https://github.com/ethereum/EIPs/issues/20
-.*/
+.
+*/
+
 
 pragma solidity ^0.4.4;
 
