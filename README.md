@@ -2,29 +2,58 @@ Token sales! Initial coin offerings (ICOs)! Free easy money!
 
 # Awesome (Get-Rich-Quick) Tokens
 
-A collection on how to build / run / issue your own awesome (get-rich-quick) tokens in twenty minutes.
+A collection on how to build / run / issue / mint / print your own awesome (get-rich-quick) tokens in five / twenty / ninety minutes.
+
 
 _Contributions welcome. Anything missing? Send in a pull request. Thanks._
 
 
+
 ## Ethereum Standard #20 Token
 
-_ERC20 = Ethereum Request for Comments (ERC) #20_
+_ERC20 = Ethereum Request for Comments (ERC) #20 - Fungible Tokens_
+
+
+### Intro
+
+To create your very own token you need four pieces:
+
+1. Name of the token e.g. Digital Alchemy Krypto Token
+2. Token symbol (like a stock ticker) e.g. KRYPTO
+3. The token decimal places (making the token divisible) e.g. 18
+4. The total number of tokens in circulation e.g. 1 000 000 000 
+
+That's it. 
+
 
 
 ### How-To Articles
 
+
+[**How to deploy an ERC20 token in 20 minutes**](http://www.masonforest.com/blockchain/ethereum/2017/11/13/how-to-deploy-an-erc20-token-in-20-minutes.html) 
+by Mason Fischer, November 2017
+
 [**How to build your own Ethereum based ERC20 Token and launch an initial coin offering (ICO) in next 20 minutes**](https://hashnode.com/post/how-to-build-your-own-ethereum-based-erc20-token-and-launch-an-ico-in-next-20-minutes-cjbcpwzec01c93awtbij90uzn)
-by Sandeep Panda  
+by Sandeep Panda, December 2017
 
 [**How to issue your own token on Ethereum in less than 20 minutes**](https://medium.com/bitfwd/how-to-issue-your-own-token-on-ethereum-in-less-than-20-minutes-ac1f8f022793) 
-by Moritz Neto, December, 2017
+by Moritz Neto, December 2017
+
+[**How to Launch an initial coin offering (ICO) Token on Ethereum in 90 Minutes**](https://joetechnologist.com/2018/02/14/how-to-launch-an-ico-token-on-ethereum-in-90-minutes/)
+by Joseph Raczynski, February 2018
 
 [**How to do an initial coin offering (ICO) on Ethereum in less than 20 minutes**](https://medium.com/bitfwd/how-to-do-an-ico-on-ethereum-in-less-than-20-minutes-a0062219374) 
 by Moritz Neto, March 2018 
 
-[**How to deploy an ERC20 token in 20 minutes**](http://www.masonforest.com/blockchain/ethereum/2017/11/13/how-to-deploy-an-erc20-token-in-20-minutes.html) 
-by Mason Fischer, November 2017
+
+
+
+
+## Ethereum Standard #721 Token
+
+_ERC721 = Ethereum Request for Comments (ERC) #721 - Non Fungible Tokens (NFTs) / Unique Bits & Bytes (on the Blockchain)_
+
+See the [Awesome CryptoCollectibles (& CryptoAssets) page »](https://github.com/cryptocopycats/awesome-cryptocollectibles)
 
 
 
