@@ -66,6 +66,12 @@ by Moritz Neto, March 2018
 by Sandeep Panda, January 2018
 
 
+**Mastering Ethereum Book**
+
+[**Tokens**](https://github.com/ethereumbook/ethereumbook/blob/develop/tokens.asciidoc) 
+by Andreas M. Antonopoulos, Gavin Wood, 2018
+
+
 
 
 **Official Ethereum Getting Started Guides**
@@ -109,13 +115,6 @@ Unlimited crowdsale_
 
 [**ERC-20 Token Standard**](http://eips.ethereum.org/EIPS/eip-20), [(Source)](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-20.md)
 by Fabian Vogelsteller, Vitalik Buterin, 2015
-
-
-
-**Mastering Ethereum Book**
-
-[**Tokens**](https://github.com/ethereumbook/ethereumbook/blob/develop/tokens.asciidoc) 
-by Andreas M. Antonopoulos, Gavin Wood, 2018
 
 
 
