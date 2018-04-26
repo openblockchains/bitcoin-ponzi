@@ -7,12 +7,25 @@ A collection on how to build / run / issue your own awesome (get-rich-quick) tok
 _Contributions welcome. Anything missing? Send in a pull request. Thanks._
 
 
+## Ethereum Standard #20 Token
 
-## How-To Articles
+_ERC20 = Ethereum Request for Comments (ERC) #20_
 
-[**How to issue your own token on Ethereum in less than 20 minutes**](https://medium.com/bitfwd/how-to-issue-your-own-token-on-ethereum-in-less-than-20-minutes-ac1f8f022793) by Moritz Neto, December, 2017
 
-[**How to do an initial coin offering (ICO) on Ethereum in less than 20 minutes**](https://medium.com/bitfwd/how-to-do-an-ico-on-ethereum-in-less-than-20-minutes-a0062219374) by Moritz Neto, March 2018 
+### How-To Articles
+
+[**How to build your own Ethereum based ERC20 Token and launch an initial coin offering (ICO) in next 20 minutes**](https://hashnode.com/post/how-to-build-your-own-ethereum-based-erc20-token-and-launch-an-ico-in-next-20-minutes-cjbcpwzec01c93awtbij90uzn)
+by Sandeep Panda  
+
+[**How to issue your own token on Ethereum in less than 20 minutes**](https://medium.com/bitfwd/how-to-issue-your-own-token-on-ethereum-in-less-than-20-minutes-ac1f8f022793) 
+by Moritz Neto, December, 2017
+
+[**How to do an initial coin offering (ICO) on Ethereum in less than 20 minutes**](https://medium.com/bitfwd/how-to-do-an-ico-on-ethereum-in-less-than-20-minutes-a0062219374) 
+by Moritz Neto, March 2018 
+
+[**How to deploy an ERC20 token in 20 minutes**](http://www.masonforest.com/blockchain/ethereum/2017/11/13/how-to-deploy-an-erc20-token-in-20-minutes.html) 
+by Mason Fischer, November 2017
+
 
 
 
@@ -28,6 +41,25 @@ _Step 1: Sell hot air. How? ++
 Step 2: Pump up your tokens. How? ++
 Step 3: Revolutionize the World.  How? ++
 Fast Exit Case Studies_
+
+
+
+
+## Blockchain White Papers - The Art of the Deal / Steal - Scam Alert! Scam Alert! Scam Alert!
+
+_Welcome greater fools! Thanks for your money and HODLing the bag!_
+
+[**Blockchain Whitepapers**](https://github.com/openblockchains/blockchain-whitepapers)
+includes Savedroid ($SVD) - Frankfurt (Germany)
+
+[**Austrian Blockchain Whitepapers**](https://github.com/austriacodes/blockchain-whitepapers) - the art of the steal / deal made in Austria - collection of token white papers on the blockchain
+includes Hero / Herocoin ($PLAY) by Byte Heroes;
+Lancer ($LNC) by Blocklancer;
+Rotharium ($RTH) by Crypto Future
+Pantos ($PAN) by Bitpanda
+Crowd ($CRWD) by Conda
+Cultural Coin ($CC) by Cultural Places / Oroundo Mobile
+
 
 
 
