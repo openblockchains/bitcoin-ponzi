@@ -79,9 +79,8 @@ by Fabian Vogelsteller, Vitalik Buterin, 2015
 
 **Mastering Ethereum Book**
 
-by Andreas M. Antonopoulos, Gavin Wood, 2018
-
 [**Tokens**](https://github.com/ethereumbook/ethereumbook/blob/develop/tokens.asciidoc) 
+by Andreas M. Antonopoulos, Gavin Wood, 2018
 
 
 
