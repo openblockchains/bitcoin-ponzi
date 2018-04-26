@@ -18,10 +18,13 @@ _ERC20 = Ethereum Request for Comments (ERC) #20 - Fungible Tokens_
 
 To create your very own token you need four pieces:
 
-1. Name of the token e.g. Digital Alchemy Krypto Token
-2. Token symbol (like a stock ticker) e.g. KRYPTO
-3. The token decimal places (making the token divisible) e.g. 18
-4. The total number of tokens in circulation e.g. 1 000 000 000 
+|                                       | Example        |
+|---------------------------------------|----------------|
+| 1. Name of the token                  | Digital Alchemy Krypto Token |
+| 2. Token symbol (like a stock ticker) | KRYPTO                 |
+| 3. Token decimal places (making the token divisible) | 18  |
+| 4. Total number of tokens in circulation | 1 000 000 000   |
+
 
 That's it. 
 
