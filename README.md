@@ -62,12 +62,47 @@ by Joseph Raczynski, February 2018
 [**How to do an initial coin offering (ICO) on Ethereum in less than 20 minutes**](https://medium.com/bitfwd/how-to-do-an-ico-on-ethereum-in-less-than-20-minutes-a0062219374) 
 by Moritz Neto, March 2018 
 
+[**The 2018 guide to writing (and testing) real world crowdsale contracts**](https://hashnode.com/post/the-2018-guide-to-writing-and-testing-real-world-crowdsale-contracts-cjcs8dfes00apmdwthw03c2jq)
+by Sandeep Panda, January 2018
+
+
+
 
 **Official Ethereum Getting Started Guides**
 
 [**Token - Create your own Cryto Currency with Ethereum**](https://www.ethereum.org/token)
+_The Coin - 
+Minimum Viable Token •
+The code •
+Understanding the code •
+Noticed the comments? •
+How to deploy ++ 
+Improve your token -
+More basic functions •
+Centralized Administrator •
+Central Mint •
+Freezing of assets •
+Automatic selling and buying •
+Autorefill •
+Proof of Work ++
+Improved Coin -
+Full coin code •
+Deploying ++ 
+Now what?_
+
+
 
 [**Crowdsale - Create your own Crowdsale - Raising funds from friends without a third party**](https://www.ethereum.org/crowdsale)
+_Crowdfund your idea -
+Tokens and DAOs •
+The code •
+Code highlights •
+How to use •
+Raise funds ++
+Extending the crowdsale -
+What if the crowdsale overshoots its target? •
+Unlimited crowdsale_
+
 
 
 **Official Ethereum Standards**
