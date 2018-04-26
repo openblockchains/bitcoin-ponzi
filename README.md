@@ -20,23 +20,23 @@ To create your very own token in five minutes you need four pieces:
 
 |                                       | Example        |
 |---------------------------------------|----------------|
-| 1. Name of the token                  | Digital Alchemy Krypto Token |
-| 2. Token symbol (like a stock ticker) | KRYPTO                 |
-| 3. Token decimal places (making the token divisible) | 18  |
-| 4. Total number of tokens in circulation | 1 000 000 000   |
+| 1. Name of the token                  | Your Crypto Token |
+| 2. Token symbol (like a stock ticker) | YOU                 |
+| 3. Token decimal places (making the token divisible) | 2   |
+| 4. Total number of tokens in circulation | 2 100 000 000   |
 
 
 That's it. 
 
 ``` Solidity
-contract KryptoToken is StandardToken {
-    string public constant name = 'Digital Alchemy Krypto Token';
-    string public constant symbol = 'KRYPTO';
-    uint8 public constant decimals = 18;
-    uint constant _initial_supply = 1000000000;
+contract YourToken is StandardToken {
+    string public constant name    = 'Your Crypto Token';
+    string public constant symbol  = 'YOU';
+    uint8 public constant decimals = 2;
+    uint constant _initial_supply  = 2100000000;
 
-    function METoken() public {
-        totalSupply_ = _initial_supply;
+    function YourToken() public {
+        totalSupply_         = _initial_supply;
         balances[msg.sender] = _initial_supply;
         Transfer(address(0), msg.sender, _initial_supply);
     }
@@ -81,9 +81,8 @@ by Fabian Vogelsteller, Vitalik Buterin, 2015
 
 by Andreas M. Antonopoulos, Gavin Wood, 2018
 
-Chapters:
-
 [**Tokens**](https://github.com/ethereumbook/ethereumbook/blob/develop/tokens.asciidoc) 
+
 
 
 
