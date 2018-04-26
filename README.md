@@ -16,7 +16,7 @@ _ERC20 = Ethereum Request for Comments (ERC) #20 - Fungible Tokens_
 
 ### Intro
 
-To create your very own token you need four pieces:
+To create your very own token in five minutes you need four pieces:
 
 |                                       | Example        |
 |---------------------------------------|----------------|
@@ -28,6 +28,20 @@ To create your very own token you need four pieces:
 
 That's it. 
 
+``` Solidity
+contract KryptoToken is StandardToken {
+    string public constant name = 'Digital Alchemy Krypto Token';
+    string public constant symbol = 'KRYPTO';
+    uint8 public constant decimals = 18;
+    uint constant _initial_supply = 1000000000;
+
+    function METoken() public {
+        totalSupply_ = _initial_supply;
+        balances[msg.sender] = _initial_supply;
+        Transfer(address(0), msg.sender, _initial_supply);
+    }
+}
+```
 
 
 ### How-To Articles
@@ -48,6 +62,28 @@ by Joseph Raczynski, February 2018
 [**How to do an initial coin offering (ICO) on Ethereum in less than 20 minutes**](https://medium.com/bitfwd/how-to-do-an-ico-on-ethereum-in-less-than-20-minutes-a0062219374) 
 by Moritz Neto, March 2018 
 
+
+**Official Ethereum Getting Started Guides**
+
+[**Token - Create your own Cryto Currency with Ethereum**](https://www.ethereum.org/token)
+
+[**Crowdsale - Create your own Crowdsale - Raising funds from friends without a third party**](https://www.ethereum.org/crowdsale)
+
+
+**Official Ethereum Standards**
+
+[**ERC-20 Token Standard**](http://eips.ethereum.org/EIPS/eip-20), [(Source)](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-20.md)
+by Fabian Vogelsteller, Vitalik Buterin, 2015
+
+
+
+**Mastering Ethereum Book**
+
+by Andreas M. Antonopoulos, Gavin Wood, 2018
+
+Chapters:
+
+[**Tokens**](https://github.com/ethereumbook/ethereumbook/blob/develop/tokens.asciidoc) 
 
 
 
