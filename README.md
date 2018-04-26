@@ -169,8 +169,10 @@ _A curated list of awesome lists._
 
 - [**Awesome Token Sale**](https://github.com/holographicio/awesome-token-sale) -- a curated list of token sale resources / (initial coin offerings) ICO resources 
 
+<!-- break - ethereum  -->
 
-<!-- add awesome solidity  (ethereum contract scripts / services) --->
+- [**Awesome Solidity (Contract Scripts/Services)**](https://github.com/bkrem/awesome-solidity) -- a curated list of awesome solidity resources, libraries, tools and more
+- [**Awesome Ethereum Virtual Machine (EVM)**](https://github.com/pirapira/awesome-ethereum-virtual-machine) -- a curated list of resources on the Ethereum Virtual Machine (EVM) - the virtual machine executed on the ethereum network
 
 
 
