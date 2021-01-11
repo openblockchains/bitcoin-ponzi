@@ -37,9 +37,10 @@ Some "unpopular" bitcoin facts:
 
 So what!?  Do you own research! Here we go:
 
-
 **SCAM ALERT! SCAM ALERT! SCAM ALERT!**
 
+
+### Tyler Winklevoss, Bitcoin Billionaire
 
 > Washington Post News:
 >
@@ -59,13 +60,12 @@ When Elon Musk puts the Tesla balance sheet into Bitcoin, we'll have to change t
 The U.S. Dollar is no longer a reliable store of value. Cameron and I (Winklevoss Twins Capital) make the case for $500 000 Bitcoin. Number go up! To the moon!
 
 
--- Tyler Winklevoss, Bitcoin Billionaire
-
+### Cameron Winklevoss, Bitcoin Billionaire
 
 There are 3.5 billion smart phones on the planet. All of them can hold bitcoin. None of them can hold gold. Bitcoin is the future. Number go up! To the moon!
 
--- Cameron Winklevoss, Bitcoin Billionaire
 
+### Michael Saylor, Business Intelligence Billionaire
 
 Money is energy. Bitcoin is the first crypto monetary energy network, capable of collecting all the world's liquid energy, storing it over time without power loss, and channeling it across space with negligible impedance. Number go up! To the moon!
 
@@ -73,14 +73,27 @@ Money is energy. Bitcoin is the first crypto monetary energy network, capable of
 
 > Austrian Physicist comments: The science on this is legit respecting the laws of thermodynamics.
 
--- Michael Saylor, Business Intelligence Billionaire
 
+
+### Anthony Pompliano, Bitcoin Cheerleader, Off The Chain Investment Newsletter Writer (100 000+ Subscribers)
 
 There are an increasing number of buyers, yet a decreasing amount of available Bitcoin.
 
 Any economics 101 student can predict what happens next. To the moon! Number go up!
 
--- Anthony Pompliano, Bitcoin Cheerleader, Off The Chain Investment Newsletter Writer (100 000+ Subscribers)
+
+### Bitcoiner (BTC), Greater Fool Investor
+
+WOO NUMBER GO UP!!!
+
+Who needs adoption when you can have institutional investors!
+Why bank the unbanked when you can bank the banks!
+Bring out the champaign because NUMBER GO UP!!!
+
+Am I price posting right?
+
+
+---
 
 
 
@@ -105,7 +118,25 @@ by Trolly McTrollface
 [**Bitcoin is not a literal Ponzi scheme**](http://www.tr0lly.com/bitcoin/bitcoin-is-not-a-literal-ponzi-scheme/) by Trolly McTrollface
 
 
+## 2019
+
+[**Tether: The Story So Far**](https://www.kalzumeus.com/2019/10/28/tether-and-bitfinex/) by Patrick McKenzie, Recovering Japanese Salaryman
+
+
+## 2018
+
+[**Crypto is the Mother of All Scams and (Now Busted) Bubbles - While Blockchain Is The Most Over-Hyped Technology Ever, No Better than a Spreadsheet/Database**](https://bitsblocks.github.io/crypto-bubbles) by Nouriel Roubini, Economist
+
+[**Crypto Facts - Decentralize Payments - Efficient, Low Cost, Fair, Clean - True or False?**](https://bitsblocks.github.io/crypto-facts) by Nouriel Roubini, Economist
+
+[**Best of Bitcoin Maximalist - Scammers, Morons, Clowns, Shills & BagHODLers - Inside The New New Crypto Ponzi Economics**](https://bitsblocks.github.io/bitcoin-maximalist) by Trolly McTrollface
+
+
+
+
 ## 2017
+
+[**The Problem with Calling Bitcoin a "Ponzi Scheme"**](https://prestonbyrne.com/2017/12/08/bitcoin_ponzi/) by Preston Byrne, Blockchain Attorney
 
 [**Attack of the 50 Foot Blockchain**](https://davidgerard.co.uk/blockchain/table-of-contents/) by David Gerard, Blockchain Journalist
 
@@ -122,8 +153,15 @@ by Trolly McTrollface
 
 
 
+## 1776
+
+[**HODLing Gold? Gengis Khan is HODLing Sheep and Oxen: Inside the True Nature and Causes of the Wealth of Nations**](https://github.com/openblockchains/crypto-books/tree/master/The_Wealth_of_Nations) by Adam Smith, Old School Economist
 
 
+
+
+
+---
 
 Found another Bitcoin ponzi article? Tell us!
 
