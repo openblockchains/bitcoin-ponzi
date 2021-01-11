@@ -29,9 +29,9 @@ On 4 December 2013, Alan Greenspan referred to it as a "bubble" as did George So
 Some "unpopular" bitcoin facts:
 
 - Bitcoin Proof-of-Waste Mining Is an Environmental Disaster
-- Bitcon is a Greater Fool BagHODLer Zero-Sum Fraudsters' Greed Fest
+- Bitcon Is a Greater Fool BagHODLer Zero-Sum Fraudsters' Greed Fest
 - The Bigger the Lies the Better - To the Moon! Number Go Up! Will Quadruple to $100 000 in 2021!
-- Bitcoin Is Comedy Gold - Bitcoin is the New Standard?! - LOL
+- Bitcoin Is Comedy Gold - Bitcoin Is the New Standard?! - LOL
 - When Will the Music Stop? (Hint: Try to Cash Out)
 
 
