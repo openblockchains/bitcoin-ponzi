@@ -9,6 +9,15 @@ Wikipedia
 - <https://en.wikipedia.org/wiki/List_of_bitcoin_forks>
 - <https://en.wikipedia.org/wiki/Blockchain>
 
+<!-- frauds, bubbles, etc. -->
+- <https://en.wikipedia.org/wiki/Ponzi_scheme>
+- <https://en.wikipedia.org/wiki/Pyramid_scheme>
+- <https://en.wikipedia.org/wiki/Get-rich-quick_scheme>
+- <https://en.wikipedia.org/wiki/Greater_fool_theory>
+- <https://en.wikipedia.org/wiki/Bagholder>
+- <https://en.wikipedia.org/wiki/Intrinsic_value_(finance)>
+- <https://en.wikipedia.org/wiki/Tulip_mania>
+- <https://en.wikipedia.org/wiki/Pump_and_dump>
 
 
 More
