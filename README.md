@@ -28,7 +28,7 @@ On 4 December 2013, Alan Greenspan referred to it as a "bubble" as did George So
 
 Some "unpopular" bitcoin facts:
 
-- Bitcoin Mining Is an Environmental Disaster
+- Bitcoin Proof-of-Waste Mining Is an Environmental Disaster
 - Bitcon is a Greater Fool BagHODLer Zero-Sum Fraudsters' Greed Fest
 - The Bigger the Lies the Better - To the Moon! Number Go Up! Will Quadruple to $100 000 in 2021!
 - Bitcoin Is Comedy Gold - Bitcoin is the New Standard?! - LOL
@@ -104,7 +104,7 @@ Comedy Gold?  Let's get real:
 ## 2021
 
 [**Why Bitcoin is a Ponzi: A Type of Investment Fraud with Five Features**](https://www.ic.unicamp.br/~stolfi/bitcoin/2020-12-31-bitcoin-ponzi.html)
-by Jorge Stolfi, Computer Sciencist, State University of Campinas
+by Jorge Stolfi, Computer Sciencist, State University of Campinas, Brazil
 
 [**Tether: Heads I Win, Tails You Lose**](http://www.tr0lly.com/uncategorized/tether-heads-i-win-tails-you-lose/)  by Trolly McTrollface
 
@@ -123,7 +123,24 @@ by Trolly McTrollface
 [**Tether: The Story So Far**](https://www.kalzumeus.com/2019/10/28/tether-and-bitfinex/) by Patrick McKenzie, Recovering Japanese Salaryman
 
 
+[**Up in Flames: Bitcoin and other digital coins recapitulate 500 years of failure**](https://arstechnica.com/information-technology/2019/02/researcher-counts-the-reasons-he-wants-cryptocurrency-burned-with-fire/) by Nicholas Weaver, Computer Scientist, University of California, Berkley, United States
+
+
+[There's No Good Reason to Trust Blockchain Technology](https://www.wired.com/story/theres-no-good-reason-to-trust-blockchain-technology/) by Bruce Schneier, Cryptography Researcher
+
+
+
 ## 2018
+
+[**Bitcoin Maximalists' Impossible Dream**](https://www.forbes.com/sites/francescoppola/2018/12/30/bitcoin-maximalists-impossible-dream/) by Frances Coppola, Finance Journalist
+
+[**Bitcoin and other cryptocurrencies are useless**](https://www.economist.com/leaders/2018/08/30/bitcoin-and-other-cryptocurrencies-are-useless), The Economist
+
+
+[**Bitcoin is based on the blockchain pipe dream**](https://www.theguardian.com/business/2018/mar/05/bitcoin-is-based-on-the-blockchain-pipe-dream) by Nouriel Roubini, Economist and Preston Byrne, Blockchain Attorney
+
+[**The Big Blockchain Lie**](https://www.project-syndicate.org/commentary/blockchain-big-lie-by-nouriel-roubini-2018-10) by Nouriel Roubini, Economist
+
 
 [**Crypto is the Mother of All Scams and (Now Busted) Bubbles - While Blockchain Is The Most Over-Hyped Technology Ever, No Better than a Spreadsheet/Database**](https://bitsblocks.github.io/crypto-bubbles) by Nouriel Roubini, Economist
 
@@ -131,6 +148,14 @@ by Trolly McTrollface
 
 [**Best of Bitcoin Maximalist - Scammers, Morons, Clowns, Shills & BagHODLers - Inside The New New Crypto Ponzi Economics**](https://bitsblocks.github.io/bitcoin-maximalist) by Trolly McTrollface
 
+
+[**Bitcoin is basically a ponzi scheme**](https://www.seattletimes.com/opinion/bitcoin-is-basically-a-ponzi-scheme/)
+by Paul Krugman, Economist
+
+[**Greater fool theory - The bitcoin bubble**](https://www.economist.com/buttonwoods-notebook/2017/11/01/the-bitcoin-bubble), The Economist
+
+
+[**Bitcoin is the greatest scam in history**](https://www.vox.com/2018/4/24/17275202/bitcoin-scam-cryptocurrency-mining-pump-dump-fraud-ico-value) by Bill Harris, Founding CEO, PayPal and Personal Capital
 
 
 
@@ -166,5 +191,16 @@ by Trolly McTrollface
 Found another Bitcoin ponzi article? Tell us!
 
 Contributions welcome! Just send pull requests.
+
+
+
+
+---
+
+Why?  This Bitcoin Is a Ponzi page is inspired
+by the [Bitcoin Obituaries: Bitcoin Declared Dead 350+ Times](https://99bitcoins.com/bitcoin-obituaries/).
+
+
+Austrian Maximalist comments: Can I ask, when will you admit you were wrong? $50 000 bitcoin? $100 000 bitcoin? $500 000 bitcoin?
 
 
