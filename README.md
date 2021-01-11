@@ -158,6 +158,8 @@ by Paul Krugman, Economist
 
 [**Bitcoin is the greatest scam in history**](https://www.vox.com/2018/4/24/17275202/bitcoin-scam-cryptocurrency-mining-pump-dump-fraud-ico-value) by Bill Harris, Founding CEO, PayPal and Personal Capital
 
+[**Why you can't cash out: Bitcoin is not a Ponzi scheme! It just works like one**](https://davidgerard.co.uk/blockchain/2018/01/04/why-you-cant-cash-out-pt-3-bitcoin-is-not-a-ponzi-scheme-it-just-works-like-one/) by David Gerard, Blockchain Journalist 
+
 
 
 ## 2017
