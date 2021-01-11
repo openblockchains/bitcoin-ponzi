@@ -23,7 +23,16 @@ Bitcoin has been described as an economic bubble by at least eight Nobel Prize E
 On 4 December 2013, Alan Greenspan referred to it as a "bubble" as did George Soros on 25 January 2018. Warren Buffett called bitcoin a "mirage" on 13 March 2014.
 
 
-_Bitcoin Mining Is an Environmental Disaster - Bitcon is a Greater Fool BagHODLer Zero-Sum Fraudsters' Greed Fest - The Bigger the Lies the Better - To the Moon! Number Go Up! Will Quadruple to $100 000 in 2021! - When Will the Music Stop? (Hint: Try to Cash Out) - Bitcoin Is Comedy Gold - Bitcoin is the New Standard?! - LOL_
+
+§
+
+Some "unpopular" bitcoin facts:
+
+- Bitcoin Mining Is an Environmental Disaster
+- Bitcon is a Greater Fool BagHODLer Zero-Sum Fraudsters' Greed Fest
+- The Bigger the Lies the Better - To the Moon! Number Go Up! Will Quadruple to $100 000 in 2021!
+- Bitcoin Is Comedy Gold - Bitcoin is the New Standard?! - LOL
+- When Will the Music Stop? (Hint: Try to Cash Out)
 
 
 So what!?  Do you own research! Here we go:
@@ -40,14 +49,15 @@ This Bitcoin rally is the most sophisticated investors, the smartest people in t
 
 §
 
-The U.S. Dollar is no longer a reliable store of value. Cameron and I (Winklevoss Twins Capital) make the case for $500 000 Bitcoin. Number go up! To the moon!
-
-§
-
 When Elon Musk puts the Tesla balance sheet into Bitcoin, we'll have to change the Bitcoin rallying cry from "to the moon!" to "to Mars!"
 
 > Austrian Maximalist I comments: Let's use solar energy to mine bitcoin with
 >  satellites in space!
+
+§
+
+The U.S. Dollar is no longer a reliable store of value. Cameron and I (Winklevoss Twins Capital) make the case for $500 000 Bitcoin. Number go up! To the moon!
+
 
 -- Tyler Winklevoss, Bitcoin Billionaire
 
