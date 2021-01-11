@@ -52,7 +52,7 @@ This Bitcoin rally is the most sophisticated investors, the smartest people in t
 
 When Elon Musk puts the Tesla balance sheet into Bitcoin, we'll have to change the Bitcoin rallying cry from "to the moon!" to "to Mars!"
 
-> Austrian Maximalist I comments: Let's use solar energy to mine bitcoin with
+> Austrian Maximalist comments: Let's use solar energy to mine bitcoin with
 >  satellites in space!
 
 §
