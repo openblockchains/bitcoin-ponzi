@@ -126,7 +126,7 @@ by Trolly McTrollface
 [**Up in Flames: Bitcoin and other digital coins recapitulate 500 years of failure**](https://arstechnica.com/information-technology/2019/02/researcher-counts-the-reasons-he-wants-cryptocurrency-burned-with-fire/) by Nicholas Weaver, Computer Scientist, University of California, Berkley, United States
 
 
-[There's No Good Reason to Trust Blockchain Technology](https://www.wired.com/story/theres-no-good-reason-to-trust-blockchain-technology/) by Bruce Schneier, Cryptography Researcher
+[**There's No Good Reason to Trust Blockchain Technology**](https://www.wired.com/story/theres-no-good-reason-to-trust-blockchain-technology/) by Bruce Schneier, Cryptography Researcher
 
 
 
