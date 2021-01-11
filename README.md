@@ -198,9 +198,8 @@ Contributions welcome! Just send pull requests.
 ---
 
 Why?  This Bitcoin Is a Ponzi page is inspired
-by the [Bitcoin Obituaries: Bitcoin Declared Dead 350+ Times](https://99bitcoins.com/bitcoin-obituaries/).
+by the [Bitcoin Obituaries: Bitcoin Declared Dead 350+ Times](https://99bitcoins.com/bitcoin-obituaries/) page.
 
 
 Austrian Maximalist comments: Can I ask, when will you admit you were wrong? $50 000 bitcoin? $100 000 bitcoin? $500 000 bitcoin?
-
 
