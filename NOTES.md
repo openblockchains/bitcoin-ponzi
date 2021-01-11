@@ -23,5 +23,6 @@ Wikipedia
 More
 - <https://99bitcoins.com/bitcoin-obituaries/>
 - <https://www.bloomberg.com/features/bitcoin-bulls-bears/>
-
+- <https://en.bitcoin.it/wiki/Bitcoin_as_an_investment>
+- <https://en.bitcoin.it/wiki/Bitcoin_as_a_medium_of_exchange>
 
