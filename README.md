@@ -35,7 +35,7 @@ Some "unpopular" bitcoin facts:
 - When Will the Music Stop? (Hint: Try to Cash Out)
 
 
-So what!?  Do you own research! Here we go:
+So what!?  Do your own research! Here we go:
 
 **SCAM ALERT! SCAM ALERT! SCAM ALERT!**
 
