@@ -111,6 +111,7 @@ by Jorge Stolfi, Computer Sciencist, State University of Campinas, Brazil
 [**The Tether Press and Bitcoin's Speculative Mania**](http://www.tr0lly.com/bitcoin/the-tether-press-and-bitcoins-speculative-mania/)
 by Trolly McTrollface
 
+[**"I don't believe bitcoin is unique in any way": Why investors should be careful with this cryptocurrency**](http://usatoday.com/story/money/columnist/2021/01/10/investors-cryptocurrency-bitcoin/43312105/) by Sean Williams, Investment Advisor, The Motley Fool
 
 
 ## 2020
