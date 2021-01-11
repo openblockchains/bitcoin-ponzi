@@ -1,6 +1,7 @@
 # Notes
 
 Wikipedia
+
 - <https://en.wikipedia.org/wiki/History_of_bitcoin>
 - <https://en.wikipedia.org/wiki/Cryptocurrency_bubble>
 - <https://en.wikipedia.org/wiki/Economics_of_bitcoin>
@@ -23,6 +24,10 @@ Wikipedia
 More
 - <https://99bitcoins.com/bitcoin-obituaries/>
 - <https://www.bloomberg.com/features/bitcoin-bulls-bears/>
+
+
+Bitcoin Wiki
+
 - <https://en.bitcoin.it/wiki/Bitcoin_as_an_investment>
 - <https://en.bitcoin.it/wiki/Bitcoin_as_a_medium_of_exchange>
-
+- <https://en.bitcoin.it/wiki/Controlled_supply>
