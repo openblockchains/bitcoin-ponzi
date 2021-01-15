@@ -113,6 +113,9 @@ by Trolly McTrollface
 
 [**"I don't believe bitcoin is unique in any way": Why investors should be careful with this cryptocurrency**](http://usatoday.com/story/money/columnist/2021/01/10/investors-cryptocurrency-bitcoin/43312105/) by Sean Williams, Investment Advisor, The Motley Fool
 
+[**The Bit Short: Inside Crypto's Doomsday Machine**](https://crypto-anonymous-2021.medium.com/the-bit-short-inside-cryptos-doomsday-machine-f8dcf78a64d3) by Crypto Anonymous
+
+
 
 ## 2020
 
