@@ -93,15 +93,39 @@ Bring out the champaign because NUMBER GO UP!!!
 Am I price posting right?
 
 
+### Dan McArdle,  Bitcoin "There is No Alternative", Bitcoin is the New (Gold) Standard
+
+Bitcoin will save the environment. 
+Bitcoin will create a global arbitrage in energy. 
+
+Bitcoin will drive innovation in energy and use of renewables.
+
+§
+
+Bitcoin number go up because more people want bitcoin.
+Bitcoin becomes more and more valuable.
+
+- 1,000 HODLers
+- 10,000 HODLers
+- 100,000 HODLers
+- 1,000,000 HODLers
+- 10,000,000 HODLers
+- 100,000,000 HODLers
+- 1,000,000,000 HODLers
+- 10,000,000,000 HODLers
+- 100,000,000,000 HODLers and on and on
+
+People will come to understand bitcon.
+
 ---
-
-
 
 
 Comedy Gold?  Let's get real:
 
 
 ## 2021
+
+[**'How can $24B in tethers move a $650B Bitcoin market cap?' and other mathematically illiterate question**](https://amycastor.com/2021/01/20/how-can-24b-in-tethers-move-a-650b-bitcoin-market-cap-and-other-mathematically-illiterate-questions/) by Amy Castor 
 
 [**Why Bitcoin is a Ponzi: A Type of Investment Fraud with Five Features**](https://www.ic.unicamp.br/~stolfi/bitcoin/2020-12-31-bitcoin-ponzi.html)
 by Jorge Stolfi, Computer Sciencist, State University of Campinas, Brazil
