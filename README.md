@@ -1,4 +1,4 @@
-# Bitcoin Is a Ponzi (Investment Fraud)
+# Yes, Bitcoin Is a Ponzi - Learn How the Investment Fraud Works
 
 
 > SEC Investor Education:
