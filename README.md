@@ -125,7 +125,7 @@ Comedy Gold?  Let's get real:
 
 ## 2021
 
-[**'How can $24B in tethers move a $650B Bitcoin market cap?' and other mathematically illiterate question**](https://amycastor.com/2021/01/20/how-can-24b-in-tethers-move-a-650b-bitcoin-market-cap-and-other-mathematically-illiterate-questions/) by Amy Castor 
+[**'How can $24B in tethers move a $650B Bitcoin market cap?' and other mathematically illiterate question**](https://amycastor.com/2021/01/20/how-can-24b-in-tethers-move-a-650b-bitcoin-market-cap-and-other-mathematically-illiterate-questions/) by Amy Castor, Blockchain Journalist 
 
 [**Why Bitcoin is a Ponzi: A Type of Investment Fraud with Five Features**](https://www.ic.unicamp.br/~stolfi/bitcoin/2020-12-31-bitcoin-ponzi.html)
 by Jorge Stolfi, Computer Sciencist, State University of Campinas, Brazil
