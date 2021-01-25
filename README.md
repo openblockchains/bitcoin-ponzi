@@ -34,6 +34,22 @@ Some "unpopular" bitcoin facts:
 - Bitcoin Is Comedy Gold - Bitcoin Is the New Standard?! - LOL
 - When Will the Music Stop? (Hint: Try to Cash Out)
 
+Or how about:
+
+![](bitcoin-net-money-flow.png)
+
+> Bitcoin's money flow is exactly the same as that of a ponzi scheme, as depicted above.
+> The arrow in that diagram represents the net one-way flow of money from investors to miners. 
+> The net total flow since 2009 is already 15 billion USD. 
+> If the the current bitcoin (BTC) price holds, that amount will grow by about 30 million USD/day, 
+> or at least another 10 billion USD in the next year. 
+> Besides the investors, there isn't (and there will never be) any source of money that could return that money to them.
+>
+> Even if bitcoin promoters refuse to accept the label "ponzi", 
+> they cannot deny that diagram. How can anyone propose such a bottomless barrel as a "store of value".
+>
+> -- Jorge Stolfi - Yes, Bitcoin is a Ponzi: A Re-Rebuttal
+
 
 So what!?  Do your own research! Here we go:
 
