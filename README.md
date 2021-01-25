@@ -48,7 +48,8 @@ Or how about:
 > Even if bitcoin promoters refuse to accept the label "ponzi", 
 > they cannot deny that diagram. How can anyone propose such a bottomless barrel as a "store of value".
 >
-> -- Jorge Stolfi - [Yes, Bitcoin is a Ponzi: A Re-Rebuttal](https://www.ic.unicamp.br/~stolfi/bitcoin/2021-01-16-yes-ponzi.html)
+> -- Jorge Stolfi, [Yes, Bitcoin is a Ponzi: A Re-Rebuttal](https://www.ic.unicamp.br/~stolfi/bitcoin/2021-01-16-yes-ponzi.html)
+
 
 So what!?  Do your own research! Here we go:
 
