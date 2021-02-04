@@ -166,6 +166,8 @@ by Jorge Stolfi, Computer Sciencist, State University of Campinas, Brazil
 
 ## 2019
 
+[**Chapter 1 - The Bitcoin Narratives (in Narrative Economics: How Stories Go Viral and Drive Major Economic Events)**](https://press.princeton.edu/books/hardcover/9780691182292/narrative-economics) by Robert Shiller, Yale University, Nobel Laureate Economist 
+
 [**Tether: The Story So Far**](https://www.kalzumeus.com/2019/10/28/tether-and-bitfinex/) by Patrick McKenzie, Recovering Japanese Salaryman
 
 
@@ -196,7 +198,7 @@ by Jorge Stolfi, Computer Sciencist, State University of Campinas, Brazil
 
 
 [**Bitcoin is basically a ponzi scheme**](https://www.seattletimes.com/opinion/bitcoin-is-basically-a-ponzi-scheme/)
-by Paul Krugman, Economist
+by Paul Krugman, Nobel Laureate Economist
 
 [**Greater fool theory - The bitcoin bubble**](https://www.economist.com/buttonwoods-notebook/2017/11/01/the-bitcoin-bubble), The Economist
 
