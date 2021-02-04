@@ -166,8 +166,6 @@ by Jorge Stolfi, Computer Sciencist, State University of Campinas, Brazil
 
 ## 2019
 
-[**Chapter 1 - The Bitcoin Narratives (in Narrative Economics: How Stories Go Viral and Drive Major Economic Events)**](https://press.princeton.edu/books/hardcover/9780691182292/narrative-economics) by Robert Shiller, Yale University, Nobel Laureate Economist 
-
 [**Tether: The Story So Far**](https://www.kalzumeus.com/2019/10/28/tether-and-bitfinex/) by Patrick McKenzie, Recovering Japanese Salaryman
 
 
@@ -176,6 +174,8 @@ by Jorge Stolfi, Computer Sciencist, State University of Campinas, Brazil
 
 [**There's No Good Reason to Trust Blockchain Technology**](https://www.wired.com/story/theres-no-good-reason-to-trust-blockchain-technology/) by Bruce Schneier, Cryptography Researcher
 
+
+[**Chapter 1 - The Bitcoin Narratives (in Narrative Economics: How Stories Go Viral and Drive Major Economic Events)**](https://press.princeton.edu/books/hardcover/9780691182292/narrative-economics) by Robert Shiller, Yale University, Nobel Laureate Economist
 
 
 ## 2018
