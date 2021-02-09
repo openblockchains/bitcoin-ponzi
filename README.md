@@ -146,6 +146,8 @@ by Jorge Stolfi, Computer Sciencist, State University of Campinas, Brazil
 
 [**'How can $24B in tethers move a $650B Bitcoin market cap?' and other mathematically illiterate question**](https://amycastor.com/2021/01/20/how-can-24b-in-tethers-move-a-650b-bitcoin-market-cap-and-other-mathematically-illiterate-questions/) by Amy Castor, Blockchain Journalist 
 
+[**The Stupidity of Investing in Bitcoin**](http://www.tr0lly.com/bitcoin/the-stupidity-of-investing-in-bitcoin/)  by Trolly McTrollface
+
 [**Tether: Heads I Win, Tails You Lose**](http://www.tr0lly.com/uncategorized/tether-heads-i-win-tails-you-lose/)  by Trolly McTrollface
 
 [**The Tether Press and Bitcoin's Speculative Mania**](http://www.tr0lly.com/bitcoin/the-tether-press-and-bitcoins-speculative-mania/)
