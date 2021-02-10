@@ -186,6 +186,8 @@ by Jorge Stolfi, Computer Sciencist, State University of Campinas, Brazil
 
 [**Bitcoin and other cryptocurrencies are useless**](https://www.economist.com/leaders/2018/08/30/bitcoin-and-other-cryptocurrencies-are-useless), The Economist
 
+[**Why bitcoin uses so much energy: Its consumption is roughly the same as Ireland's**](https://www.economist.com/the-economist-explains/2018/07/09/why-bitcoin-uses-so-much-energy), The Economist
+
 
 [**Bitcoin is based on the blockchain pipe dream**](https://www.theguardian.com/business/2018/mar/05/bitcoin-is-based-on-the-blockchain-pipe-dream) by Nouriel Roubini, Economist and Preston Byrne, Blockchain Attorney
 
