@@ -153,6 +153,8 @@ by Jorge Stolfi, Computer Sciencist, State University of Campinas, Brazil
 [**The Tether Press and Bitcoin's Speculative Mania**](http://www.tr0lly.com/bitcoin/the-tether-press-and-bitcoins-speculative-mania/)
 by Trolly McTrollface
 
+[**Tesla Spends $1.5B of Taxpayer-Funded Environmental Credits to Burn Coal in China**](http://www.tr0lly.com/bitcoin/tesla-spends-1-5b-of-taxpayer-funded-environmental-credits-to-burn-coal-in-china/) by Trolly McTrollface
+
 [**"I don't believe bitcoin is unique in any way": Why investors should be careful with this cryptocurrency**](http://usatoday.com/story/money/columnist/2021/01/10/investors-cryptocurrency-bitcoin/43312105/) by Sean Williams, Investment Advisor, The Motley Fool
 
 [**The Bit Short: Inside Crypto's Doomsday Machine**](https://crypto-anonymous-2021.medium.com/the-bit-short-inside-cryptos-doomsday-machine-f8dcf78a64d3) by Crypto Anonymous
