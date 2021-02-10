@@ -155,7 +155,7 @@ by Trolly McTrollface
 
 [**Tesla Spends $1.5B of Taxpayer-Funded Environmental Credits to Burn Coal in China**](http://www.tr0lly.com/bitcoin/tesla-spends-1-5b-of-taxpayer-funded-environmental-credits-to-burn-coal-in-china/) by Trolly McTrollface
 
-[**Bitcoin consumes 'more electricity than Argentina'. The rising value of Bitcoin leads to ever-higher energy consumption.**](https://www.bbc.com/news/technology-56012952) by Cristina Criddle, Tech Reporter, British Broadcasting Corp. (BBC)
+[**Bitcoin consumes 'more electricity than Argentina'. The rising value of Bitcoin leads to ever-higher energy consumption**](https://www.bbc.com/news/technology-56012952) by Cristina Criddle, Tech Reporter, British Broadcasting Corp. (BBC)
 
 [**"I don't believe bitcoin is unique in any way": Why investors should be careful with this cryptocurrency**](http://usatoday.com/story/money/columnist/2021/01/10/investors-cryptocurrency-bitcoin/43312105/) by Sean Williams, Investment Advisor, The Motley Fool
 
