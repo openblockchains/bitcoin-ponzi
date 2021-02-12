@@ -144,6 +144,12 @@ Comedy Gold?  Let's get real:
 [**Yes, Bitcoin is a Ponzi: A Re-Rebuttal**](https://www.ic.unicamp.br/~stolfi/bitcoin/2021-01-16-yes-ponzi.html)
 by Jorge Stolfi, Computer Sciencist, State University of Campinas, Brazil
 
+[**Bitcoin is not a means of payment. Bitcoin is not a currency. Bitcoin is not a unit of account. Bitcoin is not a scalable means of payment. Bitcoin is not a single numeraire. Now, people say Bitcoin is an asset. But think of it. What are assets?**](https://amycastor.com/2021/02/11/nouriel-roubini-tether-is-a-criminal-enterprise-sec-should-probe-elon-musks-bitcoin-tweets/)
+by Nouriel Roubini, Economist, Coin Desk Q&A, (transcribed by Amy Castor - thanks!)
+
+[**Bitcoin is not a hedge against tail risk. Elon Musk may be buying it, but that doesn't mean everyone else should follow suit. The fundamental value of bitcoin is negative given its massive environmental cost**](https://www.ft.com/content/9be5ad05-b17a-4449-807b-5dbcb5ef8170) by Nouriel Roubini, Economist, Finincial Times Op-Ed
+
+
 [**'How can $24B in tethers move a $650B Bitcoin market cap?' and other mathematically illiterate question**](https://amycastor.com/2021/01/20/how-can-24b-in-tethers-move-a-650b-bitcoin-market-cap-and-other-mathematically-illiterate-questions/) by Amy Castor, Blockchain Journalist 
 
 [**The Stupidity of Investing in Bitcoin**](http://www.tr0lly.com/bitcoin/the-stupidity-of-investing-in-bitcoin/)  by Trolly McTrollface
