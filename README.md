@@ -152,6 +152,9 @@ by Nouriel Roubini, Economist, Coin Desk Q&A, (transcribed by Amy Castor - thank
 
 [**'How can $24B in tethers move a $650B Bitcoin market cap?' and other mathematically illiterate question**](https://amycastor.com/2021/01/20/how-can-24b-in-tethers-move-a-650b-bitcoin-market-cap-and-other-mathematically-illiterate-questions/) by Amy Castor, Blockchain Journalist 
 
+
+[**If You Buy Bitcoin, You'll Get Screwed**](http://www.tr0lly.com/bitcoin/buy-bitcoin-get-screwed/) by Trolly McTrollface
+
 [**The Stupidity of Investing in Bitcoin**](http://www.tr0lly.com/bitcoin/the-stupidity-of-investing-in-bitcoin/)  by Trolly McTrollface
 
 [**Tether: Heads I Win, Tails You Lose**](http://www.tr0lly.com/uncategorized/tether-heads-i-win-tails-you-lose/)  by Trolly McTrollface
@@ -163,9 +166,12 @@ by Trolly McTrollface
 
 [**Bitcoin consumes 'more electricity than Argentina'. The rising value of Bitcoin leads to ever-higher energy consumption**](https://www.bbc.com/news/technology-56012952) by Cristina Criddle, Tech Reporter, British Broadcasting Corp. (BBC)
 
-[**"I don't believe bitcoin is unique in any way": Why investors should be careful with this cryptocurrency**](http://usatoday.com/story/money/columnist/2021/01/10/investors-cryptocurrency-bitcoin/43312105/) by Sean Williams, Investment Advisor, The Motley Fool
+[**Inside the Cryptocurrency Casino: Bitcoin and its imitators were supposed to democratize the world of money. Instead, speculators have gotten rich - and the planet is paying the price**](https://www.currentaffairs.org/2021/02/inside-the-cryptocurrency-casino) by Andrew Ancheta, Current Affairs
+
 
 [**The Bit Short: Inside Crypto's Doomsday Machine**](https://crypto-anonymous-2021.medium.com/the-bit-short-inside-cryptos-doomsday-machine-f8dcf78a64d3) by Crypto Anonymous
+
+[**"I don't believe bitcoin is unique in any way": Why investors should be careful with this cryptocurrency**](http://usatoday.com/story/money/columnist/2021/01/10/investors-cryptocurrency-bitcoin/43312105/) by Sean Williams, Investment Advisor, The Motley Fool
 
 
 ## 2020
