@@ -152,6 +152,8 @@ by Nouriel Roubini, Economist, Coin Desk Q&A, (transcribed by Amy Castor - thank
 
 [**'How can $24B in tethers move a $650B Bitcoin market cap?' and other mathematically illiterate question**](https://amycastor.com/2021/01/20/how-can-24b-in-tethers-move-a-650b-bitcoin-market-cap-and-other-mathematically-illiterate-questions/) by Amy Castor, Blockchain Journalist 
 
+[**Proof of work - the reason behind Bitcoin's horrendous energy consumption**](https://amycastor.com/2021/02/17/proof-of-work-the-reason-behind-bitcoins-horrendous-energy-consumption/) by Amy Castor, Blockchain Journalist
+
 
 [**If You Buy Bitcoin, You'll Get Screwed**](http://www.tr0lly.com/bitcoin/buy-bitcoin-get-screwed/) by Trolly McTrollface
 
