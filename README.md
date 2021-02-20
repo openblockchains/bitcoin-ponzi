@@ -230,6 +230,9 @@ by Paul Krugman, Nobel Laureate Economist
 [**Why you can't cash out: Bitcoin is not a Ponzi scheme! It just works like one**](https://davidgerard.co.uk/blockchain/2018/01/04/why-you-cant-cash-out-pt-3-bitcoin-is-not-a-ponzi-scheme-it-just-works-like-one/) by David Gerard, Blockchain Journalist 
 
 
+[**Bitcoin's stupendous power waste is green, apparently - bad excuses for Proof-of-Work**](https://davidgerard.co.uk/blockchain/2018/05/22/bitcoins-stupendous-power-waste-is-green-apparently-bad-excuses-for-proof-of-work/) by David Gerard, Blockchain Journalist
+
+
 
 ## 2017
 
