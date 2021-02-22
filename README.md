@@ -154,6 +154,8 @@ by Nouriel Roubini, Economist, Coin Desk Q&A, (transcribed by Amy Castor - thank
 
 [**Proof of work - the reason behind Bitcoin's horrendous energy consumption**](https://amycastor.com/2021/02/17/proof-of-work-the-reason-behind-bitcoins-horrendous-energy-consumption/) by Amy Castor, Blockchain Journalist
 
+[**Bitcoin - The Crypto-Chernobyl Environmental Disaster**](https://www.stephendiehl.com/blog/chernobyl.html) by Stephen Diehl, Programmer
+
 
 [**If You Buy Bitcoin, You'll Get Screwed**](http://www.tr0lly.com/bitcoin/buy-bitcoin-get-screwed/) by Trolly McTrollface
 
