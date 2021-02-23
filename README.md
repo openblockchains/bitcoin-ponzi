@@ -142,7 +142,7 @@ Comedy Gold?  Let's get real:
 ## 2021
 
 [**Yes, Bitcoin is a Ponzi: A Re-Rebuttal**](https://www.ic.unicamp.br/~stolfi/bitcoin/2021-01-16-yes-ponzi.html)
-by Jorge Stolfi, Computer Sciencist, State University of Campinas, Brazil
+by Jorge Stolfi, Computer Scientist, State University of Campinas, Brazil
 
 [**Bitcoin is not a means of payment. Bitcoin is not a currency. Bitcoin is not a unit of account. Bitcoin is not a scalable means of payment. Bitcoin is not a single numeraire. Now, people say Bitcoin is an asset. But think of it. What are assets?**](https://amycastor.com/2021/02/11/nouriel-roubini-tether-is-a-criminal-enterprise-sec-should-probe-elon-musks-bitcoin-tweets/)
 by Nouriel Roubini, Economist, Coin Desk Q&A, (transcribed by Amy Castor - thanks!)
@@ -183,7 +183,7 @@ by Trolly McTrollface
 ## 2020
 
 [**Why Bitcoin is a Ponzi: A Type of Investment Fraud with Five Features**](https://www.ic.unicamp.br/~stolfi/bitcoin/2020-12-31-bitcoin-ponzi.html)
-by Jorge Stolfi, Computer Sciencist, State University of Campinas, Brazil
+by Jorge Stolfi, Computer Scientist, State University of Campinas, Brazil
 
 [**Bitcoin is not a literal Ponzi scheme**](http://www.tr0lly.com/bitcoin/bitcoin-is-not-a-literal-ponzi-scheme/) by Trolly McTrollface
 
