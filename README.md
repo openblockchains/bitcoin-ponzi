@@ -156,6 +156,8 @@ by Nouriel Roubini, Economist, Coin Desk Q&A, (transcribed by Amy Castor - thank
 
 [**Bitcoin - The Crypto-Chernobyl Environmental Disaster**](https://www.stephendiehl.com/blog/chernobyl.html) by Stephen Diehl, Programmer
 
+[**What I see now: Run screaming from Bitcoin - It is completely unambiguously obvious to me that Bitcoin is functioning as a Ponzi scheme, siphoning money from the pockets of rubes and into those of exchange insiders and China-based miners**](https://www.tbray.org/ongoing/When/202x/2021/01/20/When-You-Know#p-6) by Tim Bray, Programmer
+
 
 [**If You Buy Bitcoin, You'll Get Screwed**](http://www.tr0lly.com/bitcoin/buy-bitcoin-get-screwed/) by Trolly McTrollface
 
