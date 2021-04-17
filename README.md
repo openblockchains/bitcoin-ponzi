@@ -147,7 +147,9 @@ by Jorge Stolfi, Computer Scientist, State University of Campinas, Brazil
 [**Bitcoin is not a means of payment. Bitcoin is not a currency. Bitcoin is not a unit of account. Bitcoin is not a scalable means of payment. Bitcoin is not a single numeraire. Now, people say Bitcoin is an asset. But think of it. What are assets?**](https://amycastor.com/2021/02/11/nouriel-roubini-tether-is-a-criminal-enterprise-sec-should-probe-elon-musks-bitcoin-tweets/)
 by Nouriel Roubini, Economist, Coin Desk Q&A, (transcribed by Amy Castor - thanks!)
 
-[**Bitcoin is not a hedge against tail risk. Elon Musk may be buying it, but that doesn't mean everyone else should follow suit. The fundamental value of bitcoin is negative given its massive environmental cost**](https://www.ft.com/content/9be5ad05-b17a-4449-807b-5dbcb5ef8170) by Nouriel Roubini, Economist, Finincial Times Op-Ed
+[**Bitcoin is not a hedge against tail risk. Elon Musk may be buying it, but that doesn't mean everyone else should follow suit. The fundamental value of bitcoin is negative given its massive environmental cost**](https://www.ft.com/content/9be5ad05-b17a-4449-807b-5dbcb5ef8170) by Nouriel Roubini, Economist, Financial Times Op-Ed
+
+[**Bitcoin failed as a currency and became a speculative ponzi scheme**](https://twitter.com/nntaleb/status/1382446478539550727) by Nassim Taleb,  Mathematical Statistician, and Former Option Trader and Risk Analyst 
 
 
 [**'How can $24B in tethers move a $650B Bitcoin market cap?' and other mathematically illiterate question**](https://amycastor.com/2021/01/20/how-can-24b-in-tethers-move-a-650b-bitcoin-market-cap-and-other-mathematically-illiterate-questions/) by Amy Castor, Blockchain Journalist 
@@ -158,6 +160,8 @@ by Nouriel Roubini, Economist, Coin Desk Q&A, (transcribed by Amy Castor - thank
 
 [**What I see now: Run screaming from Bitcoin - It is completely unambiguously obvious to me that Bitcoin is functioning as a Ponzi scheme, siphoning money from the pockets of rubes and into those of exchange insiders and China-based miners**](https://www.tbray.org/ongoing/When/202x/2021/01/20/When-You-Know#p-6) by Tim Bray, Programmer
 
+
+[**Proof of Work is Killing the Environment to Create a Regulatory Loophole for Scams and Frauds**](http://www.tr0lly.com/crypto/proof-of-work-is-killing-the-environment-to-create-a-regulatory-loophole-for-scams-and-frauds/) by Trolly McTrollface 
 
 [**If You Buy Bitcoin, You'll Get Screwed**](http://www.tr0lly.com/bitcoin/buy-bitcoin-get-screwed/) by Trolly McTrollface
 
