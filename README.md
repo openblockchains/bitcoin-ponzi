@@ -151,6 +151,8 @@ by Nouriel Roubini, Economist, Coin Desk Q&A, (transcribed by Amy Castor - thank
 
 [**Bitcoin failed as a currency and became a speculative ponzi scheme**](https://twitter.com/nntaleb/status/1382446478539550727) by Nassim Taleb,  Mathematical Statistician, and Former Option Trader and Risk Analyst 
 
+[**Why [the Bitcoin] cryptocurrency is a giant fraud. Speculators might make money on it, but the arguments for its usefulness fail completely.**](https://www.currentaffairs.org/2021/04/why-cryptocurrency-is-a-giant-fraud) bby Nathan Robinson, Editor of Current Affairs
+
 
 [**'How can $24B in tethers move a $650B Bitcoin market cap?' and other mathematically illiterate question**](https://amycastor.com/2021/01/20/how-can-24b-in-tethers-move-a-650b-bitcoin-market-cap-and-other-mathematically-illiterate-questions/) by Amy Castor, Blockchain Journalist 
 
