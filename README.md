@@ -151,12 +151,15 @@ by Nouriel Roubini, Economist, Coin Desk Q&A, (transcribed by Amy Castor - thank
 
 [**Bitcoin failed as a currency and became a speculative ponzi scheme**](https://twitter.com/nntaleb/status/1382446478539550727) by Nassim Taleb,  Mathematical Statistician, and Former Option Trader and Risk Analyst 
 
-[**Why [the Bitcoin] cryptocurrency is a giant fraud. Speculators might make money on it, but the arguments for its usefulness fail completely.**](https://www.currentaffairs.org/2021/04/why-cryptocurrency-is-a-giant-fraud) by Nathan Robinson, Editor of Current Affairs
 
 
 [**'How can $24B in tethers move a $650B Bitcoin market cap?' and other mathematically illiterate question**](https://amycastor.com/2021/01/20/how-can-24b-in-tethers-move-a-650b-bitcoin-market-cap-and-other-mathematically-illiterate-questions/) by Amy Castor, Blockchain Journalist 
 
 [**Proof of work - the reason behind Bitcoin's horrendous energy consumption**](https://amycastor.com/2021/02/17/proof-of-work-the-reason-behind-bitcoins-horrendous-energy-consumption/) by Amy Castor, Blockchain Journalist
+
+[**Why Bitcoin Is Bad for the Environment. Cryptocurrency mining uses huge amounts of power - and can be as destructive as the real thing**](https://www.newyorker.com/news/daily-comment/why-bitcoin-is-bad-for-the-environment)
+by Elizabeth Kolbert, New Yorker, Staff Writer, Pulitzer Prize Winner
+
 
 [**Bitcoin - The Crypto-Chernobyl Environmental Disaster**](https://www.stephendiehl.com/blog/chernobyl.html) by Stephen Diehl, Programmer
 
@@ -177,6 +180,8 @@ by Trolly McTrollface
 [**Tesla Spends $1.5B of Taxpayer-Funded Environmental Credits to Burn Coal in China**](http://www.tr0lly.com/bitcoin/tesla-spends-1-5b-of-taxpayer-funded-environmental-credits-to-burn-coal-in-china/) by Trolly McTrollface
 
 [**Bitcoin consumes 'more electricity than Argentina'. The rising value of Bitcoin leads to ever-higher energy consumption**](https://www.bbc.com/news/technology-56012952) by Cristina Criddle, Tech Reporter, British Broadcasting Corp. (BBC)
+
+[**Why [the Bitcoin] cryptocurrency is a giant fraud. Speculators might make money on it, but the arguments for its usefulness fail completely.**](https://www.currentaffairs.org/2021/04/why-cryptocurrency-is-a-giant-fraud) by Nathan Robinson, Editor of Current Affairs
 
 [**Inside the Cryptocurrency Casino: Bitcoin and its imitators were supposed to democratize the world of money. Instead, speculators have gotten rich - and the planet is paying the price**](https://www.currentaffairs.org/2021/02/inside-the-cryptocurrency-casino) by Andrew Ancheta, Current Affairs
 
