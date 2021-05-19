@@ -152,6 +152,7 @@ by Nouriel Roubini, Economist, Coin Desk Q&A, (transcribed by Amy Castor - thank
 [**Bitcoin failed as a currency and became a speculative ponzi scheme**](https://twitter.com/nntaleb/status/1382446478539550727) by Nassim Taleb,  Mathematical Statistician, and Former Option Trader and Risk Analyst 
 
 
+[**The Tether ponzi scheme - A bubble for the history books and fraud on the scale of Madoff**](https://www.singlelunch.com/2021/05/19/the-tether-ponzi-scheme/) by Matt Ranger, Data Scientist 
 
 [**'How can $24B in tethers move a $650B Bitcoin market cap?' and other mathematically illiterate question**](https://amycastor.com/2021/01/20/how-can-24b-in-tethers-move-a-650b-bitcoin-market-cap-and-other-mathematically-illiterate-questions/) by Amy Castor, Blockchain Journalist 
 
