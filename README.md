@@ -149,7 +149,11 @@ by Nouriel Roubini, Economist, Coin Desk Q&A, (transcribed by Amy Castor - thank
 
 [**Bitcoin is not a hedge against tail risk. Elon Musk may be buying it, but that doesn't mean everyone else should follow suit. The fundamental value of bitcoin is negative given its massive environmental cost**](https://www.ft.com/content/9be5ad05-b17a-4449-807b-5dbcb5ef8170) by Nouriel Roubini, Economist, Financial Times Op-Ed
 
+<!--
 [**Bitcoin failed as a currency and became a speculative ponzi scheme**](https://twitter.com/nntaleb/status/1382446478539550727) by Nassim Taleb,  Mathematical Statistician, and Former Option Trader and Risk Analyst 
+-->
+
+[**"Time to buy" bitcoin adverts banned in United Kingdom for being irresponsible. Campaign failed to say investment was complex, volatile and could expose investors to losses, says Advertising Standards Authority**](https://www.theguardian.com/media/2021/may/26/time-to-buy-bitcoin-adverts-banned-uk-asa) by Mark Sweney, The Guardian
 
 
 [**The next Bitcoin (BTC) crash could be something to behold. The parabolic price increase in Bitcoin [in 2021] is a bubble. Destroying our planet for glorified gambling is not something I'm happy about**](https://www.singlelunch.com/2021/01/24/the-next-btc-crash-could-be-truly-epic/) by Matt Ranger, Data Scientist 
