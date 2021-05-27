@@ -149,6 +149,9 @@ by Nouriel Roubini, Economist, Coin Desk Q&A, (transcribed by Amy Castor - thank
 
 [**Bitcoin is not a hedge against tail risk. Elon Musk may be buying it, but that doesn't mean everyone else should follow suit. The fundamental value of bitcoin is negative given its massive environmental cost**](https://www.ft.com/content/9be5ad05-b17a-4449-807b-5dbcb5ef8170) by Nouriel Roubini, Economist, Financial Times Op-Ed
 
+[**Bitcoin Pizza does not accept Bitcoin. We don't have a joke on that data point because we couldn't think of anything stupider than that**](https://www.youtube.com/watch?v=slKSsdVYqwc&t=212s) by Stephen Colbert, Late Show Comedy 
+
+
 <!--
 [**Bitcoin failed as a currency and became a speculative ponzi scheme**](https://twitter.com/nntaleb/status/1382446478539550727) by Nassim Taleb,  Mathematical Statistician, and Former Option Trader and Risk Analyst 
 -->
