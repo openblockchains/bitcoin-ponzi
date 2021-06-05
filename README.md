@@ -135,6 +135,11 @@ People will come to understand bitcon.
 
 ---
 
+![](bitcoin-how-to-make-money.png)
+
+(Photo Courtesy of Bitcoin 2021 - A Bitcoin Conference for Bitcoiners by Bitcoiners in Miami, Florida, June 4-5, 2021)
+
+---
 
 Comedy Gold?  Let's get real:
 
